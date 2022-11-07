@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F03YxKG&psig=AOvVaw3lNNsJvRrRxGpQMcaKl5Q_&ust=1667913014675000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiB2KiSnPsCFQAAAAAdAAAAABAD](https://cdna.artstation.com/p/assets/images/images/043/045/362/original/mecha-brain-chainsaw-man-pc-1920x1080.gif?1636135218)]
+[![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2F03YxKG&psig=AOvVaw3lNNsJvRrRxGpQMcaKl5Q_&ust=1667913014675000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiB2KiSnPsCFQAAAAAdAAAAABAD](https://cdna.artstation.com/p/assets/images/images/043/045/362/original/mecha-brain-chainsaw-man-pc-1920x1080.gif?1636135218)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F736620082805787235%2F&psig=AOvVaw3lNNsJvRrRxGpQMcaKl5Q_&ust=1667913014675000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiB2KiSnPsCFQAAAAAdAAAAABAI))]
 <h1 align="center">Heyaa, I'm Ø₭₳ⱤɄ₦</h1>
 <h3 align="center">19yo, currently lives in morroco, loves cats :3</h3>
 
