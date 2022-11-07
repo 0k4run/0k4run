@@ -1,3 +1,4 @@
+[![asarrhin's 42 stats](https://badge.mediaplus.ma/binary/asarrhin)](https://github.com/oakoudad/badge42)
 <h1 align="center">I'm Ø₭₳ⱤɄ₦</h1>
 <h3 align="center">19yo, currently lives in morroco, loves cats :3</h3>
 
