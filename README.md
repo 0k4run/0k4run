@@ -1,5 +1,5 @@
-<h1 align="center">I'm Ø₭₳ⱤɄ₦</h1>
-<h3 align="center">19yo, currently lives in morroco, loves cats :3</h3>
+<h1>I'm Ø₭₳ⱤɄ₦</h1>
+<h3>19yo, currently lives in morroco, loves cats :3</h3>
 
 - 🔭 I’m currently working on **Born2beroot**
 
