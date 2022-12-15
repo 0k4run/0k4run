@@ -1,7 +1,7 @@
 <h1>I'm Ø₭₳ⱤɄ₦</h1>
 <h3>19yo, currently lives in morroco, loves cats :3</h3>
 
-- 🔭 I’m currently working on **Born2beroot**
+- 🔭 I’m currently working on **GetNextLine**
 
 - 🌱 I’m currently learning **C**
 
