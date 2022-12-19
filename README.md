@@ -1,2 +1,2 @@
-<h1>I'm Ø₭₳ⱤɄ₦</h1>
-<h3>19yo, currently lives in morroco, i make funny words do funny things</h3>
+<h1>you can call me okarun :></h1>
+<h3>i make funny words do funny things ( ͡❛ ω ͡❛)✌</h3>
