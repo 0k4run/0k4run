@@ -7,7 +7,7 @@
   
 
 ## Connect with me  
-***you can find me at discord :  [OKARUN#1879](https://discord.com/channels/@me)***  
+<div align="center">***you can find me at discord :  [OKARUN#1879](https://discord.com/channels/@me)*** </div> 
   
 
 <br/>  
@@ -24,7 +24,7 @@
 
 
 
-### i really like music  
+<div align="center">  ### i really like music  </div>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ceakyfoqt5p5mo3d4plicou2va&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1a8df2" /></div>  
 
 <br/>  
