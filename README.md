@@ -7,6 +7,3 @@
 
 <div align="center">ㄒ卂Ҝ乇 ㄚㄖㄩ尺 卄乇卂尺ㄒ</div>  
  
-</br>
-</br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ceakyfoqt5p5mo3d4plicou2va&cover_image=true&theme=default&show_offline=false&background_color=1468bd&interchange=true&bar_color=09b5e7)](https://spotify-github-profile.vercel.app/api/view?uid=31ceakyfoqt5p5mo3d4plicou2va&redirect=true)
