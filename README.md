@@ -8,25 +8,20 @@
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" align="left" style="width: 100%" />  
+  
 
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">duh im still an entry level, this is all i can do man :(
-but here is a funni cat --></div>  
+<img src="https://i.pinimg.com/originals/fd/84/23/fd8423c0cc26d3b61483029d514c2932.gif" align="left" style="width: 100%" />  
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/85/be/94/85be94350b6cefd78140c8c8232c75e5.gif" align="center" height="100" width="100" />
-</div>  
+<img src="https://i.pinimg.com/originals/70/46/07/704607815a5b51c5bea96258e8b25ada.gif" align="left" height="300" width="" />  
+  
+
+![also me](https://i.pinimg.com/originals/5b/ca/6c/5bca6c797c4444f1a4db8ca619af5a09.gif)  
 
 
 </td></tr></table>  
