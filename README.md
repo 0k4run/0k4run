@@ -6,29 +6,6 @@
 <div align="center">ㄒ卂Ҝ乇 ㄚㄖㄩ尺 卄乇卂尺ㄒ</div>  
   
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" align="left" style="width: 100%" />  
-  
-
-<img src="https://i.pinimg.com/originals/fd/84/23/fd8423c0cc26d3b61483029d514c2932.gif" align="left" style="width: 100%" />  
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://i.pinimg.com/originals/70/46/07/704607815a5b51c5bea96258e8b25ada.gif" align="left" height="300" width="" />  
-  
-
-![also me](https://i.pinimg.com/originals/5b/ca/6c/5bca6c797c4444f1a4db8ca619af5a09.gif)  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 ***you can find me at discord :  [OKARUN#1879](https://discord.com/channels/@me)***  
   
